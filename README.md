@@ -1,4 +1,3 @@
-# ftn-website-qa-testing-selenium
 # Testiranje FTN veb-sajta – QA projekat
 
 ## O projektu
